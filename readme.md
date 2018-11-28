@@ -1,4 +1,4 @@
-mazes
+## Mazes
 
 This was a project that I did as part of a challenge from a friend.
 
